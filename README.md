@@ -9,12 +9,13 @@ The creator(s) of this content have released it to the public domain. For jurisd
 ## It looks like this
 <img src="./images/pl.png" />
 
-# ALT version do not include Powerline Symbols
+## ALT version do not include Powerline Symbols
 Download and use the file `FixedsysExcelsiorIIIb_PL3.otf`
 If there is any problem then please let me know.
 Currently only e0b0 and e0b2 glyphs are available.
 
 For other details please see https://github.com/kika/fixedsys
 
-Many many thanks to @kika for making Fixedsys Excelsior available.
-A lot of thanks to Darien Valentine for creating this.
+# Special Thanks
+Many many thanks to [@kika](https://github.com/kika) for making Fixedsys Excelsior available.\
+A lot of thanks to Darien Valentine [@bathos](https://github.com/bathos) for creating this font.
